@@ -1,0 +1,9 @@
+streamlit
+google-cloud-storage
+google-cloud-firestore
+google-cloud-pubsub
+tensorflow
+keras
+keras_preprocessing
+numpy
+

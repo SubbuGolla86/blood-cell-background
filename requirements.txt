@@ -1,6 +1,6 @@
 streamlit
 google-cloud-storage
-google-cloud-firestore
+google-cloud-datastore
 google-cloud-pubsub
 tensorflow
 keras

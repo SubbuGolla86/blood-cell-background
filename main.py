@@ -1,5 +1,5 @@
 import os
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = "spartan-vine-456818-e9-92f4ab9629cc.json"
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = "creds.json"
 from google.cloud import pubsub_v1
 from concurrent.futures import TimeoutError
 from PIL import Image
